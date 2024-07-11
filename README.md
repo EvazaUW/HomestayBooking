@@ -1,6 +1,6 @@
 # HomestayBooking
-A online application for stay rental booking, developped based on React and Spring boot. 
-\n Time Period: April 2024 -- June 2024
+A online application for stay rental booking, developped based on React and Spring boot.     
+Time Period: April 2024 -- June 2024
 ### Descriptions: 
 - Designed and built a single page web application using React. Bootstrap the development with mature component library AntD
 - Designed and implemented the backend services based on Spring boot to support stay upload, delete, search and reserve functionality
